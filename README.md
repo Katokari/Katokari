@@ -1,6 +1,4 @@
 <div>
-<img src="./Profile.png" width="300" align="right" />
-<br/>
 <img src="./Github.png" width="500" />
 <br/>
 <br/>
