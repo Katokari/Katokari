@@ -1,7 +1,7 @@
 <div>
-<img src="./Github.png" width="300" align="right" />
+<img src="./Profile.png" width="300" align="right" />
 <br/>
-<img src="./Profile.png" width="500" />
+<img src="./Github.png" width="500" />
 <br/>
 <br/>
   
