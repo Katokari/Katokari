@@ -1,16 +1,21 @@
-### Hi there 👋
+<div>
+<img src="./Github.png" width="300" align="right" />
+<br/>
+<img src="./Profile.png" width="500" />
+<br/>
+<br/>
+  
+- Name **Kato, also known as Naomi**
 
-<!--
-**Katokari/Katokari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Live in **Syria**
 
-Here are some ideas to get you started:
+- Studying [***Information Technology***](https://www.svuonline.org/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Good with **Javascript** , **Python** , **CSS** , **HTML**
+
+- Currently learning **Low Level Programming** and **x86 Assembly**
+  
+- Familiar with **Ubuntu**, **Manjaro**, **Kali**
+
+- Understand 日本語 (N5), Arabic (Native), and English (B2-A1)
+</div>
