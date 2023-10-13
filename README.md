@@ -3,7 +3,7 @@
 <br/>
 <br/>
   
-- Name **Kato, also known as Naomi**
+- Name **Kato**
 
 - Live in **Syria**
 
@@ -15,5 +15,5 @@
   
 - Familiar with **Ubuntu**, **Manjaro**, **Kali**
 
-- Understand 日本語 (N5), Arabic (Native), and English (B2-A1)
+- Understand 日本語 (N5), Arabic (Native), and English (C1)
 </div>
